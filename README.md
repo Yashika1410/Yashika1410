@@ -36,7 +36,7 @@
 <img align="left" alt="Java" width="70px" height = "30px" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png"/>
 
 <br />
-<br/>
+<br />
 
 ### Github Stats :
 ![Yashika's github stats](https://github-readme-stats.vercel.app/api?username=Yashika1410&show_icons=true&theme=flag-india)
