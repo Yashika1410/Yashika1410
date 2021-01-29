@@ -3,14 +3,14 @@
 
 - 👯 I’m looking to collaborate with other developers and programmers.
 - 🥅 `2020 Goals:` Contribute more to Open Source projects
-- ⚡ `Fun fact:` I Love Cold Coffee 🤣
+- ⚡ `Fun fact:` I love Cold Coffee 🤣
 - 🌱 `Interest :`Painting, Traveling, Coding, Music and Bedminton.
 <img align="right" alt="Coding" width="250" height="200"  src="https://cdn.dribbble.com/users/2211982/screenshots/14111224/media/38c3c6be7917c589b09c3e4cf2e80e15.gif">
 
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="35px" height ="35px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG22.png" style=" margin: 5px 5px" />][linkedin]
-[<img alt="Instagram" width="35px" height ="35px" src="https://i.pinimg.com/originals/03/ea/1e/03ea1e0f50e5077829d3cc4bc13555e2.png" style=" margin: 5px 5px"/>][instagram]
+[<img alt="Instagram" width="35px" height ="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style=" margin: 5px 5px"/>][instagram]
 [<img alt="Github" width="35px" height ="35px" src="https://image.flaticon.com/icons/png/512/25/25231.png" style=" margin: 5px 5px"/>][github]
 
 ### Languages and Tools : 
