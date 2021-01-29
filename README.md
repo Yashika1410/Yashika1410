@@ -1,4 +1,4 @@
-# **Hi there, I'm Yashika** <img src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width="70px" style=" margin: -16px 10px">
+# **Hi there, I'm Yashika** <img src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width="65px" style=" margin: -16px 10px">
 ## I'm a Student, Programmer and a Developer !!
 
 - 👯 I’m looking to collaborate with other developers and programmers.
