@@ -5,7 +5,7 @@
 - 🥅 `2020 Goals:` Contribute more to Open Source projects
 - ⚡ `Fun fact:` I Love Cold Coffee 🤣
 - 🌱 `Interest :`Painting, Traveling, Coding, Music and Bedminton.
-<img align="right" alt="Coding" width="300" height="200"  src="https://cdn.dribbble.com/users/2211982/screenshots/14111224/media/38c3c6be7917c589b09c3e4cf2e80e15.gif">
+<img align="right" alt="Coding" width="250" height="200"  src="https://cdn.dribbble.com/users/2211982/screenshots/14111224/media/38c3c6be7917c589b09c3e4cf2e80e15.gif">
 
 ### Connect with me:
 
