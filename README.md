@@ -33,8 +33,8 @@
 <img align="left" alt="C" width="40px" src="https://static.wixstatic.com/media/0cfd43_1831013bcc8540fcba4f087dfa07653c~mv2.png/v1/fill/w_350,h_350,al_c,lg_1,q_85/c.webp"  />
 <img align="left" alt="Atom" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"  />
 
-<img align="left" alt="Java" width="70px" height = "30px" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png"/>
-<img align="left" alt="Kotlin" width="40px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"/>
+<img align="left" alt="Java" width="50px" height = "30px" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png"/>
+<img align="left" alt="Kotlin" width="30px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"/>
 <br />
 <br />
 
