@@ -34,7 +34,7 @@
 <img align="left" alt="Atom" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"  />
 
 <img align="left" alt="Java" width="70px" height = "30px" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png"/>
-
+<img align="left" alt="Kotlin" width="40px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"/>
 <br />
 <br />
 
