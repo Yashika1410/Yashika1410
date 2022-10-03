@@ -2,7 +2,7 @@
 ## I'm a Student, Programmer and a Developer !!
 
 - 👯 I’m looking to collaborate with other developers and programmers.
-- 🥅 `2021 Goals:` Contribute more to Open Source projects
+- 🥅 `2022 Goals:` Contribute more to Open Source projects
 - ⚡ `Fun fact:` I love Cold Coffee 🤣
 - 🌱 `Interest :`Painting, Traveling, Coding, Music and Bedminton.
 <img align="right" alt="Coding" width="250" height="200"  src="https://cdn.dribbble.com/users/2211982/screenshots/14111224/media/38c3c6be7917c589b09c3e4cf2e80e15.gif">
