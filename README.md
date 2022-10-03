@@ -11,7 +11,7 @@
 
 [<img align="left" alt="LinkedIn" width="35px" height ="35px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG22.png" style=" margin: 5px 5px" />][linkedin]
 [<img alt="Instagram" width="35px" height ="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style=" margin: 5px 5px"/>][instagram]
-[<img alt="Github" width="35px" height ="35px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" style=" margin: 5px 5px"/>][github]
+[<img alt="Github" width="45px" height ="45px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" style=" margin: 5px 5px"/>][github]
 
 ### Languages and Tools : 
 
